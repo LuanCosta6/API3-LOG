@@ -1,6 +1,6 @@
 # Logtech Logística
 API 2° Semestre Logística - G1
-![LogotipoAPI](https://github.com/LuanCosta6/API3-LOG/issues/1#issue-2251758208)
+(https://github.com/LuanCosta6/API3-LOG/assets/128298764/a8ed9ed7-7ea6-4cd5-baac-fc3d3e82ca5d)
 # Aprendizado por Projeto Integrado (API)
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
