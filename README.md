@@ -79,5 +79,5 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/PROJ/boards/3/backlog)
 
 # Burndown
-Burndown Sprint 3
-![Burndown 3](https://github.com/LuanCosta6/API/assets/128298764/aa1863cc-874a-433a-9661-7775f234e882)
+Burndown Sprint 1
+![Burndown 1]()
