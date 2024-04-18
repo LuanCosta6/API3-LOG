@@ -19,7 +19,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Descrição da demanda solicitada pelo cliente
+O projeto a ser desenvolvido tem como objetivo criar/modelar uma base de dados na qual usaremos várias ferramentas para realizar a filtragem da nossa base de dados (SQL, Python e Power BI).
+Através da nossa base iremos identificar a produtividade mensal do veículos, custos ded por km de cada rota e evolução dos custos por unidade transportada de cada.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
