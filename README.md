@@ -76,7 +76,7 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/A2L2G/boards/2/backlog)
+#### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/PROJ/boards/3/backlog)
 
 # Burndown
 Burndown Sprint 3
