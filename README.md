@@ -56,7 +56,9 @@ exportação
  * GitHub
  * Jira Software
  * PowerBI
- * Excel
+ * Python
+ * SQL
+ * Excel (ferramenta de apoio)
   
  ### Tecnologias da Informação
  * Base de Dados (fornecida pelo cliente)
