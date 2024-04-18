@@ -38,16 +38,15 @@ Desenvolvimento do grupo
 ![Apresentação da entrega final](https://github.com/LuanCosta6/API/assets/128298764/3e3705ab-6581-4b6f-a2a6-984a421263f0)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo trazer uma visão ampla do fluxo de carga no Estado de São Paulo:
-* Apresentar DashBoard;
-* Fluxo de carga (Importação/Exportação);
-* Qual SH4 mais predominante;
+Este projeto tem como objetivo trazer uma visão na qual possamos fazer uma filtragem sobre os transportes realizados: 
+* Apresentar um DashBoard que mostre o fluxo de rotas e de veiculos;
+* Fluxo de carga mensal dos veiculos (relação entre outputs e inputs;
+* Apresentar a evolução dos custos por unidade transportada de cada rota;
 
 Criar base de dados realcional e Dashboard que permita:
-* Identificar os modais utilizados nos trâmites internacionais
-de movimentação de cargas
-* Desenhar a geografia do fluxo da carga para importação e
-exportação
+* Mostre a produtividade mensal dos veículos (relação entre outputs e inputs)​;
+* Evolução dos custos por km de cada rota, filtrando por fábricas​;
+* Evolução dos custos por unidade transportada de cada rota, filtrando por fábricas​.
 
 
 ## Tecnologias Utilizadas
