@@ -32,7 +32,7 @@ Descrição da demanda solicitada pelo cliente
 |  Team Member  | Victor Lopes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](---------------------)          |
 |  Team Member  | Jonathan Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)          |
 
-# Projeto - Power Bi
+# Apresentação do produto
 Desenvolvimento do grupo
 ![Apresentação da entrega final](https://github.com/LuanCosta6/API/assets/128298764/3e3705ab-6581-4b6f-a2a6-984a421263f0)
 
