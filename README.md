@@ -38,6 +38,9 @@ Desenvolvimento do grupo
 ![Tela Powerbi 1](https://github.com/LuanCosta6/API3-LOG/assets/128298764/4dedf3d9-acec-454b-a9da-738a5139a630)
 ![Tela PowerBI 2](https://github.com/LuanCosta6/API3-LOG/assets/128298764/d309c65e-6cb0-4ce5-9a4c-e1d46c25fea3)
 
+Banco de Dados
+![SQL](https://github.com/LuanCosta6/API3-LOG/assets/128298764/bc42e84f-43b8-49ae-a496-00bf54c887ca)
+
 # Objetivo do Projeto
 Este projeto tem como objetivo trazer uma visão na qual possamos fazer uma filtragem sobre os transportes realizados: 
 * Apresentar um DashBoard que mostre o fluxo de rotas e de veiculos;
