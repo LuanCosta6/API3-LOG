@@ -35,7 +35,7 @@ Através da nossa base iremos identificar a produtividade mensal do veículos, c
 
 # Apresentação do produto
 Desenvolvimento do grupo
-![Apresentação da entrega final](https://github.com/LuanCosta6/API/assets/128298764/3e3705ab-6581-4b6f-a2a6-984a421263f0)
+![Apresentação da entrega final](https://github.com/LuanCosta6/API3-LOG/issues/8#issue-2289371263)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo trazer uma visão na qual possamos fazer uma filtragem sobre os transportes realizados: 
