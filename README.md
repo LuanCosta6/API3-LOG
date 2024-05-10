@@ -68,7 +68,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluido| [Ver Relatório](https://github.com/LuanCosta6/API3-LOG/files/15046097/Relatorio.Sprint.1.API.3.docx) | 
 |01 | 19/04/2024 | Concluido| [Ver Relatório](https://github.com/LuanCosta6/API3-LOG/files/15046097/Relatorio.Sprint.1.API.3.docx) | 
-|02 | 10/05/2024 | A realizar| [Ver Relatório](https://github.com/LuanCosta6/API/files/13265722/Relatorio.SPRINT.1.docx) | 
+|02 | 10/05/2024 | A realizar| [Ver Relatório](https://github.com/LuanCosta6/API3-LOG/files/15273080/Relatorio.LogTech.docx) | 
 |03 | 07/06/2024 | A realizar| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
 |04 | 21/06/2024 | A realizaar| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
 |Feira de Soluções | 27/06/2024 | A realizar| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
