@@ -61,6 +61,7 @@ Criar base de dados realcional e Dashboard que permita:
  * PowerBI
  * Python
  * SQL
+ * Google Colab
  * Excel (ferramenta de apoio)
   
  ### Tecnologias da Informação
